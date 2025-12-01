@@ -1,6 +1,6 @@
 # Flavio Liguori
 
-**Master 1 Génie Logiciel** @ Université de Montpellier  
+**Master 2 Génie Logiciel** @ Université de Montpellier  
 **Recherche alternance Data/IA - 2025**
 
 ---
@@ -38,7 +38,7 @@ C# mobile development for IoT industrial solutions.
 Team collaboration and operational adaptability.
 
 ## Education
-
+**M2 Software Engineering** - Université de Montpellier (2025-2026)  
 **M1 Software Engineering** - Université de Montpellier (2024-2025)  
 **L3 Computer Science** - Université de Montpellier (2023-2024)  
 **DUT Computer Science** - IUT Montpellier (2020-2022)
