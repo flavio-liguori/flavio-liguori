@@ -1,7 +1,7 @@
 # Flavio Liguori
 
 **Master 2 Génie Logiciel** @ Université de Montpellier  
-**Recherche alternance Data/IA - 2025**
+**Recherche alternance Software/Data/IA - 2025**
 
 ---
 
