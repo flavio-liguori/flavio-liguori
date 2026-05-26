@@ -1,13 +1,13 @@
 # Flavio Liguori
 
-**Master 2 Génie Logiciel** @ Université de Montpellier  
-**En recherche d'emplois Software/Data/Cyber - 2026**
+Master’s Degree in Software Engineering @ University of Montpellier
+Seeking opportunities in Software / Data / Cybersecurity – 2026
 
 ---
 
 ## About
 
-Étudiant en génie logiciel avec un focus sur la data science et l'intelligence artificielle. Passionné par les architectures de données et le machine learning, je développe des solutions concrètes à travers projets académiques et expériences professionnelles.
+Software engineering student with a focus on data science and artificial intelligence. Passionate about data architectures and machine learning, I develop practical solutions through academic projects and professional experiences.
 
 ## Technical Skills
 
